@@ -3,11 +3,10 @@
 
 # Favortie Things To Do
 # Volleyball, eat, spend time with family and friends, cook fro myself
-# Favortie food tier list
-# 1. Pasta
-# 2. Bibimbap
-# 3. Ramen
+![alt text](ima![images (1)](https://github.com/user-attachments/assets/ac3dd3eb-2b7d-4258-8311-2a58f4305f20)
+ge.jpg)
 
+![alt text](image.jpg)
 
 
 
